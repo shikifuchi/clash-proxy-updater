@@ -8,7 +8,7 @@ This script will
 2. If it is running, request its restful api to get the fastest
 3. Apply the fatest proxy to current proxy.
 
-Different subscription may have dirrent config. This is for my own.
+Different subscription may have different config. This is for my own.
 
 You can simply change the code in utils.py to appy yours.
 
